@@ -132,4 +132,8 @@ dist
 # SvelteKit build / generate output
 .svelte-kit
 
+# outputs
+*.jpeg
+*.jpg
+
 # End of https://www.toptal.com/developers/gitignore/api/nodenode_modules/
